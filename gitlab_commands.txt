@@ -1,0 +1,13 @@
+gopen gitbash
+go to current working folder
+git init
+git add .
+git remote add origin <https link of the created uploading branch in the gitlab>
+git branch -M <branch name>
+git commit -m "<message>"
+git push -uf origin <branch name>
+
+
+
+git checkout
+git status
