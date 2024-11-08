@@ -1,4 +1,13 @@
 {
-	"version":0.2,
-	"file":"https://github.com/Iamwithcode/OTA_TESTING/blob/OTA_TESTING/testing_PPP_with_main_code.bin?raw=true"
-}
+	"version": 0.2,
+	"files": [
+	  {
+		"name": "application",
+		"url": "https://github.com/Iamwithcode/OTA_TESTING/blob/OTA_TESTING/testing_PPP_with_main_code.bin?raw=true"
+	  },
+	  {
+		"name": "storage",
+		"url": "https://github.com/Iamwithcode/OTA_TESTING/blob/OTA_TESTING/storage.bin?raw=true"
+	  }
+	]
+  }
